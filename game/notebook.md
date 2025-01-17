@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Walking Stick
-- [ ] Bronze Trophy
+- [x ] Bronze Trophy
 - [ ] Iron Poker
 
 ## Notes

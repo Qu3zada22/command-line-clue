@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Mayor
+- [x ] The Mayor
 - [ ] The Teacher
 - [ ] The Carpenter
 

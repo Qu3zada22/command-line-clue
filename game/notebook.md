@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Walking Stick
 - [x ] Bronze Trophy
-- [ ] Iron Poker
+- [x ] Iron Poker
 
 ## Notes
 *Use this space to record your findings and deductions...*

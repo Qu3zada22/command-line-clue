@@ -3,7 +3,7 @@
 ## Suspects
 - [x ] The Mayor
 - [ ] The Teacher
-- [ ] The Carpenter
+- [x ] The Carpenter
 
 ## Weapons
 - [ ] Walking Stick

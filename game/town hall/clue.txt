@@ -1,0 +1,5 @@
+Investigation Update:
+
+A trail of scattered papers points deeper into the offices.
+
+Remember: Use 'cd "offices"' to follow this lead.
